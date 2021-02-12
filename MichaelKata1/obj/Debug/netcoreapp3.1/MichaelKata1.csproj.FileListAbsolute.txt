@@ -1,0 +1,12 @@
+/Users/rhysevans/Desktop/MichaelKata1/MichaelKata1/bin/Debug/netcoreapp3.1/MichaelKata1.deps.json
+/Users/rhysevans/Desktop/MichaelKata1/MichaelKata1/bin/Debug/netcoreapp3.1/MichaelKata1.runtimeconfig.json
+/Users/rhysevans/Desktop/MichaelKata1/MichaelKata1/bin/Debug/netcoreapp3.1/MichaelKata1.runtimeconfig.dev.json
+/Users/rhysevans/Desktop/MichaelKata1/MichaelKata1/bin/Debug/netcoreapp3.1/MichaelKata1.dll
+/Users/rhysevans/Desktop/MichaelKata1/MichaelKata1/bin/Debug/netcoreapp3.1/MichaelKata1.pdb
+/Users/rhysevans/Desktop/MichaelKata1/MichaelKata1/obj/Debug/netcoreapp3.1/MichaelKata1.csprojAssemblyReference.cache
+/Users/rhysevans/Desktop/MichaelKata1/MichaelKata1/obj/Debug/netcoreapp3.1/MichaelKata1.AssemblyInfoInputs.cache
+/Users/rhysevans/Desktop/MichaelKata1/MichaelKata1/obj/Debug/netcoreapp3.1/MichaelKata1.AssemblyInfo.cs
+/Users/rhysevans/Desktop/MichaelKata1/MichaelKata1/obj/Debug/netcoreapp3.1/MichaelKata1.csproj.CoreCompileInputs.cache
+/Users/rhysevans/Desktop/MichaelKata1/MichaelKata1/obj/Debug/netcoreapp3.1/MichaelKata1.dll
+/Users/rhysevans/Desktop/MichaelKata1/MichaelKata1/obj/Debug/netcoreapp3.1/MichaelKata1.pdb
+/Users/rhysevans/Desktop/MichaelKata1/MichaelKata1/obj/Debug/netcoreapp3.1/MichaelKata1.genruntimeconfig.cache
